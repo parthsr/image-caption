@@ -1,0 +1,8 @@
+*.npy
+*.h5
+*.json
+*.mat
+ data/
+ .ipynb_checkpoints
+ models/
+ dockerfiles/
